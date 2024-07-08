@@ -11,7 +11,7 @@ With Swipe’s seamless platform you can manage businesses's entire financial tr
 
 # Screenshots
 
-<img src=>
+<img src="screenshots/img-1.png">
 <img src=omni-2.png>
 <img src=omni-3.png>
 <img src=omni-4.png>
