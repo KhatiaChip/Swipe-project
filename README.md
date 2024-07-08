@@ -25,4 +25,4 @@ With Swipe’s seamless platform you can manage businesses's entire financial tr
 
 
 # Deployment 
- <a href=" https://khatiachip.github.io/Swipe-project/"> <strong> you can review project link here </strong> </a>
+ <a href="https://khatiachip.github.io/Swipe-project/"> <strong> you can review project link here </strong> </a>
